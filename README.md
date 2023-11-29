@@ -1,5 +1,9 @@
 # Build a Tribute Page
 
+## Bharat Ratan Dr. B. R. Ambedkar -- Tribute Page.
+
+<img src="./Screenshot 2023-11-29 at 14-10-01 Dr. B. R. Ambedkar.png" alt="Screenshot of website" />
+
 **Objective:** Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
 <br>
 **User Stories:**<br>
